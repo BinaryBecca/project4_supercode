@@ -115,6 +115,8 @@ footer nav {
 
 .nav_element p {
   color: gray;
+  text-align: right;
+  padding-right: 80px;
 }
 
 /* !------- MEDIA QUERIES -------*/
